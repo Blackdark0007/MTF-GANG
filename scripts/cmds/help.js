@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "[ ☆ | ♥ •𝐋𝐎𝐕𝐄𝐋𝐘• ♥ | ☆]"; // changing this wont change the goatbot V2 of list cmd it is just a decoyy
+const doNotDelete = "[ ☆ | ╾⸻⟡⟡ 『ᏦᎽᎾᎿᎯᏦᎯ』 ⟡⟡⸻╼ | ☆]"; // changing this wont change the goatbot V2 of list cmd it is just a decoyy
 module.exports = {
 	config: {
 		name: "help",
