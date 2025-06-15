@@ -71,7 +71,7 @@ module.exports = {
 
 [🎯|  ᎠᎯᏁ ᏠᎬᏒᏕᎬᎽ  ]`;
 
-msg += `𝐅𝐛: ✰ m.me/100085261760009 ☆ `;
+msg += `𝐅𝐛: https://www.facebook.com/Danjersey09 `;
 
 
 
@@ -96,7 +96,7 @@ msg+= `╾⸻⟡⟡ 『ᏦᎽᎾᎿᎯᏦᎯ』 ⟡⟡⸻╼ `;
 				const guideBody = configCommand.guide?.en || "No guide available.";
 				const usage = guideBody.replace(/{p}/g, prefix).replace(/{n}/g, configCommand.name);
 
-const response = `✣━☆••LOVELY••☆━✤      
+const response = `ᏦᎽᎾᎿᎯᏦᎯ      
          
 
 ❐𝙉𝙖𝙢𝙚 ➢${configCommand.name}
