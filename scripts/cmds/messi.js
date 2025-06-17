@@ -15,7 +15,7 @@ module.exports = {
   onStart: async function ({ message }) {
    var link = [ "https://i.imgur.com/ahKcoO3.jpg",
 
-"https://i.imgur.com/Vsf4rM3.jpg",
+"https://files.catbox.moe/gdozbt.jpg",
 
 "https://i.imgur.com/ximEjww.jpg",
 
