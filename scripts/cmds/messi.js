@@ -19,7 +19,7 @@ module.exports = {
 
 "https://files.catbox.moe/qxsl1w.jpg",
 
-"https://i.imgur.com/ukYhm0D.jpg",
+"https://files.catbox.moe/hddjzr.jpg",
 
 "https://i.imgur.com/Poice6v.jpg",
 
