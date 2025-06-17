@@ -17,7 +17,7 @@ module.exports = {
 
 "https://files.catbox.moe/gdozbt.jpg",
 
-"https://i.imgur.com/ximEjww.jpg",
+"https://files.catbox.moe/qxsl1w.jpg",
 
 "https://i.imgur.com/ukYhm0D.jpg",
 
